@@ -1,0 +1,5 @@
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Release\TCPListener.exe.config
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Release\TCPListener.exe
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Release\TCPListener.pdb
+C:\Git\TCPListener\TCPListener\TCPListener\obj\Release\TCPListener.exe
+C:\Git\TCPListener\TCPListener\TCPListener\obj\Release\TCPListener.pdb

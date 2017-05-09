@@ -1,0 +1,6 @@
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Debug\TCPListener.exe.config
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Debug\TCPListener.exe
+C:\Git\TCPListener\TCPListener\TCPListener\bin\Debug\TCPListener.pdb
+C:\Git\TCPListener\TCPListener\TCPListener\obj\Debug\TCPListener.csprojResolveAssemblyReference.cache
+C:\Git\TCPListener\TCPListener\TCPListener\obj\Debug\TCPListener.exe
+C:\Git\TCPListener\TCPListener\TCPListener\obj\Debug\TCPListener.pdb
